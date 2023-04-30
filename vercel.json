@@ -2,7 +2,7 @@
   "name": "Moezz",
   "version": 2,
   "routes": [
-    {"src": "/(.*)","dest": "https://i0.hdslb.com/bfs/new_dyn/$1"}
     {"src": "/favicon.ico","dest": "https://ryan83602.github.io/picgo/favicon.ico"}
+    {"src": "/(.*)","dest": "https://i0.hdslb.com/bfs/new_dyn/$1"}
   ]
 }
